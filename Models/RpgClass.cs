@@ -11,6 +11,7 @@ namespace dotnet_rpg.Models
         Thief = 4,
         Paladin = 5,
         Blacksmith = 6,
-        Villian = 7
+        Villian = 7,
+        Hero = 8
     }
 }
